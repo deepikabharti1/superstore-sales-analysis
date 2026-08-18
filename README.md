@@ -58,4 +58,4 @@ retail-sales-analysis/
 
 ## Connect
 
-Feel free to reach out if you'd like to discuss this project — [deepikabharti096@gmail.com] | [linkedin](https://www.linkedin.com/in/deepikabharti1)
+Feel free to reach out if you'd like to discuss this project —[email](mailto:deepikabharti096@gmail.com) | [linkedin](https://www.linkedin.com/in/deepikabharti1)
